@@ -5,9 +5,9 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[Venkateswaran-Portfolio]](https://venkateswaran.versal.app/)
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
+<img width="1902" height="994" alt="Image" src="https://github.com/user-attachments/assets/c1a3ed87-d207-42d3-a1d0-3e143f64c943" />
+<img width="1340" height="632" alt="Image" src="https://github.com/user-attachments/assets/a2047546-ad84-497c-be78-3f7513196372" />
+<img width="1331" height="615" alt="Image" src="https://github.com/user-attachments/assets/2b22515d-6a23-4486-b93e-58b4c7b58822" />
 ---
 
 ## 🚀 Features
@@ -40,10 +40,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone  https://github.com/VenkateswaranTechWorld/Portofolio-of-Venkateswaran.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd venkateswaran-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -68,13 +68,6 @@ If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
 Every push to the `main` branch triggers an automatic rebuild and deployment.
-
----
-
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
 
 ---
 
